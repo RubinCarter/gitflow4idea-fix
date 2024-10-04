@@ -1,4 +1,4 @@
-# Git Flow Integration Plus for Intellij.
+# Git Flow Integration Plus for Intellij
 
 ### Available @ [JetBrains Plugins Repository][1]
 
